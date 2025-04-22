@@ -1,5 +1,5 @@
---  Nama   = Umay Nabila
---  NIM    = 23241056
+--  Nama   = Ika Damayanti
+--  NIM    = 23241059
 --  kelas  = pti b
 -- Modul   = 2 (SELECT)
 
